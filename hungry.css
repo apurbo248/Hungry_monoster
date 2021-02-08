@@ -12,14 +12,14 @@ nav{
     justify-content: center;
 } 
 #allMeals img{
-    width: 400px;
+    width: 200px;
     border-radius: 10px;
 }
 .food-item{
     border: 1px rgb(8, 8, 8);
     border-radius: 10px;
     text-align: center;
-    width: 400px;
+    width: 200px;
     background-color: rgb(59, 240, 35);
 }
 .food-item:hover{
